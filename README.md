@@ -12,6 +12,7 @@ I'm solving problems using **C++**, focusing on logic, algorithms, and preparati
 
 ## 📂 Repository Structure
 
+``` bash
 competitive-programming/
 ├── beecrowd/        # Problems from Beecrowd
 │   ├── 1001 - Extremely Basic.cpp
@@ -21,7 +22,8 @@ competitive-programming/
 │   └── ...
 ├── atcoder/         # Problems from AtCoder
 │   └── abc081a - Placing Marbles.cpp
-└── README.md
+└── README.md 
+```
 
 Inside each file, I include:
 - The problem number/title
