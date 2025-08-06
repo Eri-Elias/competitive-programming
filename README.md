@@ -62,6 +62,6 @@ Inside each file, I include:
 
 **Herick Elias**  
 Computer Science Student @ PUC  
-Learning C++, English, and Competitive Programming 🚀
+Learning C++, English, and Competitive Programming
 
 [![GitHub](https://img.shields.io/badge/GitHub-HerickElias-blue?logo=github)](https://github.com/Eri-Elias)
