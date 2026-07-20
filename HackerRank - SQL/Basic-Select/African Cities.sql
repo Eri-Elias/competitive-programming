@@ -1,3 +1,4 @@
+-- https://www.hackerrank.com/challenges/african-cities/problem
 SELECT C.NAME
 FROM CITY C
 INNER JOIN COUNTRY COU

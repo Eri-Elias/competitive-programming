@@ -1,3 +1,8 @@
+/*
+    Level: 4/10
+    Source: https://judge.beecrowd.com/en/problems/view/1403
+*/
+
 #include <stdio.h>
 #include <string.h>
 #define id 10001

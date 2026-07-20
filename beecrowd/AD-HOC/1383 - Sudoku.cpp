@@ -1,6 +1,4 @@
 /*
-    Author: Herick Elias
-    Problem: Sudoku
     Level: 6/10
     Source: https://judge.beecrowd.com/en/problems/view/1383
 */

@@ -1,3 +1,8 @@
+/*
+    Level: 2/10
+    Source: https://judge.beecrowd.com/en/problems/view/1340
+*/
+
 #include <iostream>
 #include <queue>
 #include <stack>

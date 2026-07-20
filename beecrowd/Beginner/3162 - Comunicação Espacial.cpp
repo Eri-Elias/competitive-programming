@@ -1,3 +1,8 @@
+/**
+ * Level: 4/10
+ * Link: https://judge.beecrowd.com/en/problems/view/1160
+*/
+
 #include <cmath>
 #include <iostream>
 #include <vector>

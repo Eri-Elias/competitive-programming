@@ -1,3 +1,4 @@
+-- https://www.hackerrank.com/challenges/the-company/problem
 SELECT
     c.company_code,
     c.founder,

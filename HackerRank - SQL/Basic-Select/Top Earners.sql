@@ -1,3 +1,4 @@
+-- https://www.hackerrank.com/challenges/earnings-of-employees/problem
 SELECT MAX(SALARY * MONTHS), COUNT(*)
 FROM EMPLOYEE
 GROUP BY (SALARY*MONTHS)

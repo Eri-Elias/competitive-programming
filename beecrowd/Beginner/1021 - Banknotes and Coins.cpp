@@ -1,5 +1,4 @@
 /*
-    Author: Herick Elias
     Problem: 1021 - Banknotes and Coins
     Level: 6/9
     Source: https://judge.beecrowd.com/en/problems/view/1021

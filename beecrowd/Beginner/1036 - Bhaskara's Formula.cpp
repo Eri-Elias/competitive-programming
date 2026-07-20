@@ -1,3 +1,9 @@
+/**
+ * Judge: Beecrowd
+ * Level: 3/10
+ * Link: https://judge.beecrowd.com/en/problems/view/1036
+ */
+
 #include <stdio.h>
 #include <math.h>
 

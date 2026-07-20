@@ -1,3 +1,9 @@
+/*
+    Level: 3/10
+    Source: https://judge.beecrowd.com/en/problems/view/1110
+*/
+
+
 #include <deque>
 #include <iostream>
 #include <vector>

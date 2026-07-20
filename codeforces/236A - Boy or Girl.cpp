@@ -1,3 +1,8 @@
+/*
+    Level: 800
+    Source: https://codeforces.com/problemset/problem/236/A
+*/
+
 #include <iostream>
 #include <set>
 #include <string>

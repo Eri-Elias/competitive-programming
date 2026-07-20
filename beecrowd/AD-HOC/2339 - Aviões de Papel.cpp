@@ -1,8 +1,6 @@
 /*
-    Author: Herick Elias
-    Problem: 2339 - Aviões de Papel
     Level: 1/10
-    Source: https://judge.beecrowd.com/pt/problems/view/2339
+    Source: https://judge.beecrowd.com/en/problems/view/2239
 */
 
 #include <iostream>

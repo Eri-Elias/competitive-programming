@@ -1,7 +1,6 @@
 /*
-    Author: Herick Elias
     Problem: 1021 - Banknotes
-    Level: 4/9
+    Level: 4/10
     Source: https://judge.beecrowd.com/en/problems/view/1018
 */
 

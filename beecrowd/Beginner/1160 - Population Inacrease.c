@@ -1,3 +1,8 @@
+/**
+ * Level: 5/10
+ * Link: https://judge.beecrowd.com/en/problems/view/1160
+*/
+
 #include <stdio.h>
 int main () {
     float G1, G2;

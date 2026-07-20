@@ -1,3 +1,8 @@
+/*
+    Level: 7/10
+    Source: https://judge.beecrowd.com/en/problems/view/1559
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 

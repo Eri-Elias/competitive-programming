@@ -1,3 +1,4 @@
+-- https://www.hackerrank.com/challenges/weather-observation-station-19/problem
 WITH variaveis AS (
     SELECT 
         MIN(lat_n) AS a, 

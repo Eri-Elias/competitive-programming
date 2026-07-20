@@ -1,3 +1,8 @@
+/*
+    Level: 4/10
+    Source: https://judge.beecrowd.com/en/problems/view/1739
+*/
+
 #include <stdio.h>
 int main () {
 	int t;

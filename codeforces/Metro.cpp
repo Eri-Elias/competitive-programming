@@ -1,3 +1,8 @@
+/*
+    Level: 800
+    Source: https://codeforces.com/problemset/problem/1055/A
+*/
+
 #include <iostream>
 #include <vector>
 #define pb push_back

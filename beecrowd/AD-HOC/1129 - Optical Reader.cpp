@@ -1,3 +1,8 @@
+/*
+    Level: 4/10
+    Source: https://judge.beecrowd.com/en/problems/view/1129
+*/
+
 #include <stdio.h>
 int main () {
     int a, b, c, d, e, n, i;

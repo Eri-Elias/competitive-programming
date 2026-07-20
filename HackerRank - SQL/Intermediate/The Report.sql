@@ -1,3 +1,4 @@
+--https://www.hackerrank.com/challenges/the-report/problem
 SELECT 
     CASE WHEN g.grade < 8 THEN 'NULL'
         ELSE s.name END AS Name,

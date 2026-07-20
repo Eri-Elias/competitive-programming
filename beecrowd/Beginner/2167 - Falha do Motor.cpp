@@ -1,3 +1,8 @@
+/**
+ * Level: 1/10
+ * Link: https://judge.beecrowd.com/en/problems/view/2167
+*/
+
 #include <iostream>
 using namespace std;
 int rpm (int N) {

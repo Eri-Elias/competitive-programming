@@ -1,3 +1,8 @@
+/*
+    Level: 2/10
+    Source: https://judge.beecrowd.com/en/problems/view/1089
+*/
+
 #include <stdio.h>
 int main () {
     int i, n, antecessor, sucessor;

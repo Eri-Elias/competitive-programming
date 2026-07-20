@@ -1,3 +1,8 @@
+/*
+    Level: 5/10
+    Source: https://judge.beecrowd.com/en/problems/view/3182
+*/
+
 #include <iostream>
 #include <vector>
 using namespace std;

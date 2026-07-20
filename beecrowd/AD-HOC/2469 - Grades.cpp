@@ -1,3 +1,8 @@
+/*
+    Level: 4/10
+    Source: https://judge.beecrowd.com/en/problems/view/2469
+*/
+
 #include <stdio.h>
 int main () {
     int n, nota, i, total[101] = {0}, total_nota = 0, nota_maior;

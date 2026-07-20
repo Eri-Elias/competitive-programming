@@ -1,6 +1,5 @@
 /*
-    Author: Herick Elias
-    Problem: 1021 - Area of a Circle
+    Judge: Beecrowd
     Level: 4/9
     Source: https://judge.beecrowd.com/en/problems/view/1002
 */

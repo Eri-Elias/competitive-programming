@@ -1,6 +1,4 @@
 /*
-    Author: Herick Elias
-    Problem: 2342 - Overflow
     Level: 1/10
     Source: https://judge.beecrowd.com/pt/problems/view/2342
 */

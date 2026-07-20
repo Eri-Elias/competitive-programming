@@ -1,3 +1,8 @@
+/*
+    Level: 6/10
+    Source: https://judge.beecrowd.com/en/problems/view/1221
+*/
+
 #include <stdio.h>
 #include <math.h>
 int main () {

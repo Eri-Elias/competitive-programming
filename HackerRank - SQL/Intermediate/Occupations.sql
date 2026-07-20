@@ -1,3 +1,4 @@
+-- https://www.hackerrank.com/challenges/occupations/problem
 SELECT
 MAX(
     CASE

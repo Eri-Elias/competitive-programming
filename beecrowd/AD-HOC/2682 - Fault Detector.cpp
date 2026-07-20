@@ -1,3 +1,8 @@
+/*
+    Level: 5/10
+    Source: https://judge.beecrowd.com/en/problems/view/2682
+*/
+
 #include <stdio.h>
 int main () {
 	long int menor_n, valor;

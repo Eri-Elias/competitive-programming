@@ -1,8 +1,6 @@
 /*
-    Author: Herick Elias
-    Problem: 1003 - Simple Sum
-    Level: 1/9
-    Source: https://judge.beecrowd.com/en/problems/view/1003
+ * Level: 1/10
+ * Link: https://judge.beecrowd.com/en/problems/view/10003
 */
 
 #include <math.h>

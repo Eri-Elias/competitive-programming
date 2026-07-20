@@ -1,7 +1,5 @@
 /*
-    Author: Herick Elias
-    Problem: 2486 - C Mais ou Menos?
-    Level: 3/9
+    Level: 3/10
     Source: https://judge.beecrowd.com/en/problems/view/2486
 */
 

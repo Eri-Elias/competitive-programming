@@ -1,3 +1,8 @@
+/*
+    Level: 5/10
+    Source: https://judge.beecrowd.com/en/problems/view/1245
+*/
+
 #include <stdio.h>
 int main () {
     char pe;

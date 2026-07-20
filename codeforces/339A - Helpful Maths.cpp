@@ -1,3 +1,8 @@
+/*
+    Level: 800
+    Source: https://codeforces.com/problemset/problem/339/A
+*/
+
 #include <iostream>
 #include <string>
 #include <vector>

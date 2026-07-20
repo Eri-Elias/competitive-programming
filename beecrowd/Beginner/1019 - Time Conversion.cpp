@@ -1,3 +1,9 @@
+/**
+ * Judge: Beecrowd
+ * Level: 1/10
+ * Link: https://judge.beecrowd.com/en/problems/view/1019
+ */
+
 #include <stdio.h>
 
 int main () {

@@ -1,4 +1,7 @@
-// ED
+/*
+    Level: 4/10
+    Source: https://judge.beecrowd.com/en/problems/view/2729
+*/
 
 #include <iostream>
 #include <algorithm>

@@ -1,3 +1,8 @@
+/*
+    Level: 3/10
+    Source: https://judge.beecrowd.com/en/problems/view/1449
+*/
+
 #include <iostream>
 #include <sstream>
 #include <map>

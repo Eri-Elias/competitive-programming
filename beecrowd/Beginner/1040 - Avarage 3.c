@@ -1,9 +1,8 @@
-/*
-    Author: Herick Elias
-    Problem: 1040 - Avarage 3 (with C)
-    Level: 5/9
-    Source: https://judge.beecrowd.com/en/problems/view/1040
+/**
+ * Level: 5/10
+ * Link: https://judge.beecrowd.com/en/problems/view/1040
 */
+
 
 #include <stdio.h>
 

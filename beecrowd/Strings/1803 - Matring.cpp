@@ -1,3 +1,8 @@
+/*
+    Level: 1/10
+    Source: https://judge.beecrowd.com/en/problems/view/1803
+*/
+
 #include <iostream>
 #include <string>
 using namespace std;

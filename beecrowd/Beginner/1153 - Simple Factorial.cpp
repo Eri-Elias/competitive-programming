@@ -1,7 +1,6 @@
 // Problem: Simple Factorial (with recursivity)
-// Begginer level 2/10
+// Level: 2/10
 // Source: https://judge.beecrowd.com/en/problems/view/1153
-// Author: Herick Elias
 
 #include <iostream>
 using namespace std;
