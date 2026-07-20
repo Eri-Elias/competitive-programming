@@ -1,0 +1,10 @@
+#include <iostream>
+#include <math.h>
+#include <iomanip>
+using namespace std;
+int main () {
+	int a,b,x;
+    cin>>a>>b;
+    x=a+b;
+    cout<<"X = "<<x<<'\n';
+}

@@ -1,7 +1,3 @@
-// Problem: 1759 - Ho Ho Ho!
-// Source: https://judge.beecrowd.com/en/problems/view/1759
-// Author: Herick Elias
-
 #include <iostream>
 
 using namespace std;

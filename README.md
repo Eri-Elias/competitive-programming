@@ -6,11 +6,11 @@ Welcome to my personal repository of solutions to competitive programming proble
 - [Codeforces](https://codeforces.com/)
 - [AtCoder](https://atcoder.jp/)
 
-I'm solving problems using **C++**, focusing on logic, algorithms, and preparation for programming contests and interviews.
+I'm solving problems using **C++** and **C**, focusing on logic, algorithms, and preparation for programming contests and interviews.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ``` bash
 competitive-programming/

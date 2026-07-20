@@ -1,9 +1,12 @@
-// Problem: 2486 - C mais ou menos?
-// Source: https://judge.beecrowd.com/en/problems/view/2486
-// Author: Herick Elias
+/*
+    Author: Herick Elias
+    Problem: 2486 - C Mais ou Menos?
+    Level: 3/9
+    Source: https://judge.beecrowd.com/en/problems/view/2486
+*/
 
 #include <iostream>
-#include <string.h>
+#include <string>
 #include <sstream>
 using namespace std;
 
